@@ -1,8 +1,8 @@
 # Models
 
-Processed model catalogs derived from [models.dev](https://models.dev/) for use with Toolang.
+A model catalog derived from [models.dev](https://models.dev/) for Toolang.
 
-Catalogs use a flat structure:
+The catalog uses a flat top-level structure:
 
 ```json
 {
